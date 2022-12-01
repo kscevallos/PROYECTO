@@ -21,6 +21,35 @@ Demostrar que el circuito armado tenga un buen funcionamiento y observar que los
 
 3. Materiales
 
+PARA DETECTOR DE AGUA
+
+- Protoboard 
+
+- 3 Transitores NPN 2N3904
+
+- 4 Resistores 470 OHM
+
+-Cables de conexión 
+
+- 3 LEDS rojos
+
+- Baterias 9V
+
+PARA LED NOCTURNO
+
+- 1 Resistencia 10kohm
+
+- 1 Resistencia 220ohm
+
+- 1 Potenciometro 100k 
+
+- Bateria 9V
+
+- 2 LEDS amarrillas
+
+- 1 transitor 2N3904
+
+- 1 LDR1
 4. PROCEDIMIENTO 
 
 5. EVIDENCIAS
