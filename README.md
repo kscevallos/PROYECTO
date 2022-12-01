@@ -116,9 +116,8 @@ DETECTOR DE AGUA FUNCIONANDO
 5. VIDEO
 
 6. CONCLUSIONES 
-
-
-
+ 
+Respecto a la led nocturna se puede decir que un LDR es un componente que cambia su resistencia de acuerdo con la luz visible porque tiene un fotorresistor sensible a la luz. Como ya sabemos que la resistencia es una propiedad de los materiales que impide el paso de la corriente eléctrica, a mayor resistencia, mayor resistencia a la corriente eléctrica. Las características de la corriente eléctrica se pueden evaluar en la práctica, porque podemos ver claramente la dependencia del voltaje y la resistencia, ya que cuando la resistencia aumenta, el voltaje disminuye, ya que cuando se bloquea el fotocelda, la corriente eléctrica pasa por el circuito a través del potenciómetro. y su resistencia, por lo que el voltaje disminuye.
 
 7. BIBLIOGRAFÍAS 
 
