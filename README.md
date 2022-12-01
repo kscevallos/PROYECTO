@@ -105,11 +105,11 @@ LED NOCTURNO
 
 ![image](https://user-images.githubusercontent.com/116834366/205124708-922c6709-e6e1-4ca1-9b19-e912c728247e.png)
 
-DETECTOR DE AGUA FUNCIONANDO 
+LED NOCTURNA FUNCIONANDO DETECTOR DE AGUA FUNCIONANDO 
 
 ![image](https://user-images.githubusercontent.com/116834366/205125195-c590a6e8-13b7-406e-bbd9-3614181d8f48.png)
 
-LED NOCTURNA FUNCIONANDO 
+DETECTOR DE AGUA FUNCIONANDO
 
 ![image](https://user-images.githubusercontent.com/116834366/205125147-40effc9f-d126-40ce-9dd9-89bfe986f3a3.png)
 
