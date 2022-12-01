@@ -29,7 +29,7 @@ PARA DETECTOR DE AGUA
 
 - 4 Resistores 470 OHM
 
--Cables de conexión 
+- Cables de conexión 
 
 - 3 LEDS rojos
 
@@ -50,13 +50,38 @@ PARA LED NOCTURNO
 - 1 transitor 2N3904
 
 - 1 LDR1
+
+
+- Cables de conexión
+
 4. PROCEDIMIENTO 
 
-5. EVIDENCIAS
+DETECTOR DE AGUA 
 
-6. VIDEO
+- Analizar el diagrama para realizar el circuito físico 
 
-7. CONCLUSIONES 
+![image](https://user-images.githubusercontent.com/116834366/205119744-a80fa811-037c-46fa-9c6f-c1731e17a229.png)
 
-8. BIBLIOGRAFÍAS 
+- Conectamos los transitores 
+
+![image](https://user-images.githubusercontent.com/116834366/205120359-51a86106-c049-4271-81d5-2a54427e87fc.png)
+
+- Luego conectamos los cables desde el transistor hacia el terminal negativo
+
+![image](https://user-images.githubusercontent.com/116834366/205120655-3bd11040-18db-4224-a5f5-5471f6f0fd49.png)
+
+- Conectamos las resistencias para después conectar los leds a cada uno de ellas
+
+![image](https://user-images.githubusercontent.com/116834366/205121109-ba18d336-39b2-4bb5-8c1f-1169c37a2dc2.png)
+
+- Conectamos la ultima resistencia y por ultimo ponemos los cables en cada uno de los transitores, estos cables son los que detectaran el agua
+
+![image](https://user-images.githubusercontent.com/116834366/205121778-a4b7fc88-108c-46a6-ab8a-20698038b25d.png)
+
+
+5. VIDEO
+
+6. CONCLUSIONES 
+
+7. BIBLIOGRAFÍAS 
 
