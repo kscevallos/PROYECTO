@@ -51,7 +51,6 @@ PARA LED NOCTURNO
 
 - 1 LDR1
 
-
 - Cables de conexión
 
 4. PROCEDIMIENTO 
@@ -78,10 +77,50 @@ DETECTOR DE AGUA
 
 ![image](https://user-images.githubusercontent.com/116834366/205121778-a4b7fc88-108c-46a6-ab8a-20698038b25d.png)
 
+LED NOCTURNO 
+
+- Analizamos el diagrama y lo realizamos en tinkercad
+
+![image](https://user-images.githubusercontent.com/116834366/205125514-28ea5934-2010-4dcb-a348-f1c41cd5151f.png)
+
+![image](https://user-images.githubusercontent.com/116834366/205125392-995d5b22-012a-46ae-aa15-4b897d2eefa0.png)
+
+- Primero conectamos el transitor y el cable hacia el terminal negativo 
+
+![image](https://user-images.githubusercontent.com/116834366/205123502-f3f66093-9014-40f4-9ec7-5e609173e855.png)
+
+- Conectamos las led en serie hasta llegar al terminal positivo 
+
+![image](https://user-images.githubusercontent.com/116834366/205123754-d0e31387-899b-4266-9037-cccae8cb23f0.png)
+
+- Conectamos la fotocelda desde el transitor hasta el terminal negativo
+
+![image](https://user-images.githubusercontent.com/116834366/205124047-a3b9c396-0303-449c-8d3a-7b5161e60834.png)
+
+- Conectamos la resistencia y potenciometro en serie desde el terminal negativo 
+
+![image](https://user-images.githubusercontent.com/116834366/205124382-3de425bc-8bf2-49fc-8c45-525e72ff39d6.png)
+
+-Terminamos el circuito conectando el potenciometro al transitor y una resistencia 
+
+![image](https://user-images.githubusercontent.com/116834366/205124708-922c6709-e6e1-4ca1-9b19-e912c728247e.png)
+
+DETECTOR DE AGUA FUNCIONANDO 
+
+![image](https://user-images.githubusercontent.com/116834366/205125195-c590a6e8-13b7-406e-bbd9-3614181d8f48.png)
+
+LED NOCTURNA FUNCIONANDO 
+
+![image](https://user-images.githubusercontent.com/116834366/205125147-40effc9f-d126-40ce-9dd9-89bfe986f3a3.png)
 
 5. VIDEO
 
 6. CONCLUSIONES 
 
+
+
+
 7. BIBLIOGRAFÍAS 
+
+https://www.youtube.com/watch?v=eix344ZICKA
 
